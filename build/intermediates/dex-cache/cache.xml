@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kunalbodke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/kunalbodke/AndroidStudioProjects/VideoCall/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_fea107ecefff000171be3c15105604607ae2d47e.jar" />
+    </item>
+    <item
+        jar="/Users/kunalbodke/AndroidStudioProjects/VideoCall/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/kunalbodke/AndroidStudioProjects/VideoCall/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_83dfff975d92c43db93d3a5471d2f181499e99a4.jar" />
+    </item>
+    <item
+        jar="/Users/kunalbodke/AndroidStudioProjects/VideoCall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/kunalbodke/AndroidStudioProjects/VideoCall/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_91aefacf5e28cd8b6eac2148a3a9df6fe1984848.jar" />
+    </item>
+    <item
+        jar="/Users/kunalbodke/AndroidStudioProjects/VideoCall/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/kunalbodke/AndroidStudioProjects/VideoCall/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_7119f8fd20f30015b1683aa1d46552c9348931a0.jar" />
+    </item>
+
+</items>
